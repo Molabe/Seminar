@@ -22,7 +22,6 @@ public class Helper {
                 break;
             default:
                 System.out.println("Zadaj si neznamu operaciu");
-
         }
     }
 

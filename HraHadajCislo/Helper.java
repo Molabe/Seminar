@@ -19,7 +19,7 @@ public class Helper {
             if (hrac == bot) { /* Vyhlasi vyhru a program sa vypne */
                 System.out.println("Vyhral si");
                 break;
-            } else if (hrac >= bot) { /* Vypise mensie cislo */
+            } else if (hrac > bot) { /* Vypise mensie cislo */
                 System.out.println("Cislo je mensie");
                 pocetPokus -= 1; /* Odcita pokus */
                 System.out.println("Mas este: " + pocetPokus + " pocet pokusov"); /* vypise pocet pokusov */
