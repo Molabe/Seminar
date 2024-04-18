@@ -20,7 +20,6 @@ public class Main {
         System.out.println(help.vypocetPercentChlapci(dievcata, pocetZiakov));
 
         priemernyVek = help.zistiVek(pocetZiakov);
-
         System.out.println("Priemerny vek je: " + priemernyVek);
 
     }
