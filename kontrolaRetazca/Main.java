@@ -13,5 +13,7 @@ public class Main {
         retazec = sc.nextLine();
 
         helper.vypocetPismen(retazec);
+        helper.vypocetCisiel(retazec);
+        helper.vypocetMedzier(retazec);
     }
 }

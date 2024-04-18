@@ -38,8 +38,9 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gamer/OneDrive/Desktop/Github/Seminar&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -77,6 +78,12 @@
       <workItem from="1713389724236" duration="126000" />
       <workItem from="1713389859678" duration="121000" />
       <workItem from="1713420048642" duration="94000" />
+      <workItem from="1713459409815" duration="17000" />
+      <workItem from="1713459438153" duration="59000" />
+      <workItem from="1713459503928" duration="14000" />
+      <workItem from="1713459526917" duration="50000" />
+      <workItem from="1713459589736" duration="47000" />
+      <workItem from="1713459643212" duration="56000" />
     </task>
     <servers />
   </component>
